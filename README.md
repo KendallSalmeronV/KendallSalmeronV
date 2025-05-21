@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @KendallSalmeronV a Senior .NET Full Stack Developer 
-- 👀 I’m interested in learning new technologies according to my profile and face new challenges
-- 💞️ I’m looking to collaborate on projects that need a clean architecture or new funcionalitites
-- 😎 Technology summary: C#, Blazor, .Net full and .NET 8, ASP.NET (aspx, mvc), Azure Devops, Vue.js, GIT, TFS, WCF, AJAX, JavaScript, JQuery, TypeScript, React, SQL Server, Oracle, Angular, AngularJs, LinQ, SQL, Firebase, Azure Functions.
-- 📫 Contact: kensalmeron@gmal.com / kendall.salmeron@outlook.es 
+## 👋 Hi, I'm Kendal
+
+I'm a Full Stack .NET Developer with 6+ years of experience building clean, scalable, and maintainable applications. I specialize in:
+
+- ⚙️ Clean Architecture, SOLID principles, CQRS, MediatR
+- 💻 C#, ASP.NET Core, Entity Framework, Blazor, Angular, Vue.js
+- ☁️ Exploring AI integration and cloud-native development
+
+I'm passionate about writing clean code, learning new technologies, and building solutions that solve real-world problems.
+
+Currently working on AI + .NET projects and preparing for exciting challenges ahead.
+
+---
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/kendal-salmeron-developer)  
+🔍 Check out my pinned repos below to see what I’ve been working on.
+
 
